@@ -1,0 +1,42 @@
+# (instructions) Add some comments to describe your code
+# guess-01-YourFirstName-YourLastName.py
+
+
+# -------------------------------------------
+# Add Your Comments Here
+
+# -------------------------------------------
+
+# (instructions) Add some print() statements to describe to
+# the user what is happening and expected.
+
+
+# (instructions) Add your code here
+#  1) Add a variable: number_2_guess = 7
+#  2) print() the variable number_2_guess
+
+
+# (instructions) Add your code here
+# 3) Add a hard coded user guess
+# user_guess = 5 
+
+
+# (instructions) Add your code here
+#  4) print the type() of the user_guess to show it is an integer
+#  5) print() the value of the user_guess variable
+
+
+# (instructions) Add your code here
+#  6) Add an IF statement to check if user_guess is equal to number_2_guess
+#  7) If they are equal, print() something like 'Good Guess, you are a Winner'
+#  8) also print() <user_guess> is equal to <number_2_guess>
+
+  
+# (instructions) Add your code here
+#  9) Add an ELSE statement and in that block print() if they are not equal
+# 10) print() something like 'Better Luck Next Time'
+# 11) also print() <user_guess> is NOT equal to <number_2_guess>
+
+
+# (instructions) Add your code here
+# 12) End with a print() that says something like 'All Done!'
