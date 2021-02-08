@@ -1,3 +1,7 @@
+# Using an IF/ELSE write a program to have a hard coded variable <user_guess> 
+# compared a hard coded variable <number_2_guess> and print the results.
+# You will use this source code in the next few program labs
+
 # (instructions) Add some comments to describe your code
 # guess-01-YourFirstName-YourLastName.py
 
