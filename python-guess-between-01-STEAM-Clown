@@ -1,0 +1,27 @@
+# Program challenge: Is a number from the user between 
+# 2 random numbers? 
+# 
+# This challenge while contrived, will let you exercise 
+# a WHILE loop and make decisions using a IF/ELIF/ELSE.
+# It will also incorporate the RANDOM function
+#
+# The goal of this program is to generate 2 random 
+# numbers from 0 - 20 and ask the user for a number, 
+# and see if the input user number is between the 
+# 2 random numbers.
+#
+# Break the solution down:
+# 1) Create 2 random numbers and store them in variables
+# 2) Check to see which random number is smaller, and 
+#    swap them if needed
+# 3) Ask the user for a number (Hint: be sure to validate 
+#    that the input is a number, and you don't get 
+#    traceback errors for any input)
+# 4) Check to see if the user number is between the 2 
+#    random numbers
+# 5) print() the 3 numbers and report if the user 
+#    number is smaller, larger or between the 2 
+#    random numbers
+# ---------------------------
+# Insert Your Code Here:
+# ---------------------------
