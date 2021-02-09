@@ -8,7 +8,9 @@
 # The goal of this program is to generate 2 random 
 # numbers from 0 - 20 and ask the user for a number, 
 # and see if the input user number is between the 
-# 2 random numbers.
+# 2 random numbers. Keep asking the user to "play" 
+# again using a WHILE loop and only quit it they
+# enter a 'q' or 'Q'
 #
 # Break the solution down:
 # 1) Create 2 random numbers and store them in variables
