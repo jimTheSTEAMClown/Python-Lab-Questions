@@ -20,7 +20,7 @@ long_animal_list = ['WartHog', 'Gnu', 'Thompson Gazelle', 'Zebra', 'Gnu', 'Zebra
 
 elephant_count = 0
 lion_count = 0
-ghu_count = 0
+gnu_count = 0
 #-------------------------------
 # ---- Enter Your Code Here ----
 
@@ -30,4 +30,4 @@ ghu_count = 0
 print('Animal Count')
 print('Elephants = ',elephant_count)
 print('Lions = ',lion_count)
-print("Gnu = ",ghu_count)
+print("Gnu = ",gnu_count)
