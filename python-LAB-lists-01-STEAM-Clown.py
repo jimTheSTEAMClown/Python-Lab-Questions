@@ -1,5 +1,5 @@
 #
-animal_types=['Elephant', 'Rhinoceros', 'Lion','Water Buffalo','Leopard','Giraffe','Giraffe','Ghu','Thompson Gazelle','Dik Dik','Zebra','Baboon','Hyena','Hippopotamus','Crocodile','Ostrich','Wild Dog','WartHog','Vulture']
+animal_types=['Elephant', 'Rhinoceros', 'Lion','Water Buffalo','Leopard','Giraffe','Ghu','Thompson Gazelle','Dik Dik','Zebra','Baboon','Hyena','Hippopotamus','Crocodile','Ostrich','Wild Dog','WartHog','Vulture']
 
 short_animal_list = ['Baboon', 'Gnu', 'WartHog', 'Gnu', 'Vulture', 'Gnu', 'Gnu', 'Gnu', 'Zebra', 'WartHog', 'Zebra', 'Zebra', 'Leopard', 'Gnu', 'Gnu', 'Elephant', 'Gnu']
 
